@@ -552,7 +552,8 @@ WHERE customer_lifetime_value_usd > (
     )
   AND support_tickets > 3;
 ```
-# 业务报告
+# 业务报告`reports/business_report.md`
+
 # 电商客户流失：从预测到留存行动
 
 ## 1. 核心发现
